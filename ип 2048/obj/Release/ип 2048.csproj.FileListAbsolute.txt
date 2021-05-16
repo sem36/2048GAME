@@ -1,0 +1,11 @@
+H:\ИП 2048\ип 2048\bin\Release\ип 2048.exe.config
+H:\ИП 2048\ип 2048\bin\Release\ип 2048.exe
+H:\ИП 2048\ип 2048\bin\Release\ип 2048.pdb
+H:\ИП 2048\ип 2048\obj\Release\ип_2048.fAbout.resources
+H:\ИП 2048\ип 2048\obj\Release\ип_2048.fMain.resources
+H:\ИП 2048\ип 2048\obj\Release\ип_2048.fSettings.resources
+H:\ИП 2048\ип 2048\obj\Release\ип_2048.Properties.Resources.resources
+H:\ИП 2048\ип 2048\obj\Release\ип 2048.csproj.GenerateResource.cache
+H:\ИП 2048\ип 2048\obj\Release\ип 2048.csproj.CoreCompileInputs.cache
+H:\ИП 2048\ип 2048\obj\Release\ип 2048.exe
+H:\ИП 2048\ип 2048\obj\Release\ип 2048.pdb
