@@ -1,0 +1,12 @@
+F:\Game\2048\2048GAME\ип 2048\bin\Debug\ип 2048.exe.config
+F:\Game\2048\2048GAME\ип 2048\bin\Debug\ип 2048.exe
+F:\Game\2048\2048GAME\ип 2048\bin\Debug\ип 2048.pdb
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.csprojAssemblyReference.cache
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.fAbout.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.fMain.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.fSettings.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.Properties.Resources.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.csproj.GenerateResource.cache
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.csproj.CoreCompileInputs.cache
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.exe
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.pdb

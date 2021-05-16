@@ -58,6 +58,7 @@ namespace ип_2048
             this.mainMenu.TabIndex = 0;
             this.mainMenu.Text = "menuStrip1";
             this.mainMenu.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.MainMenu_ItemClicked);
+            this.mainMenu.KeyDown += new System.Windows.Forms.KeyEventHandler(this.fMain_KeyDown);
             // 
             // mmGame
             // 
