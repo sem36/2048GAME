@@ -1,0 +1,48 @@
+F:\Game\2048\2048GAME\ип 2048\bin\Debug\ип 2048.exe.config
+F:\Game\2048\2048GAME\ип 2048\bin\Debug\ип 2048.exe
+F:\Game\2048\2048GAME\ип 2048\bin\Debug\ип 2048.pdb
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.csprojAssemblyReference.cache
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.fAbout.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.fMain.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.fSettings.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип_2048.Properties.Resources.resources
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.csproj.GenerateResource.cache
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.csproj.CoreCompileInputs.cache
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.exe
+F:\Game\2048\2048GAME\ип 2048\obj\Debug\ип 2048.pdb
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\bin\Debug\ип 2048.exe.config
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\bin\Debug\ип 2048.exe
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\bin\Debug\ип 2048.pdb
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип 2048.csprojAssemblyReference.cache
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип_2048.fAbout.resources
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип_2048.fMain.resources
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип_2048.fSettings.resources
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип_2048.Properties.Resources.resources
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип 2048.csproj.GenerateResource.cache
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип 2048.csproj.CoreCompileInputs.cache
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип 2048.exe
+D:\Л22\2021\Индивидуальные проекты\Кожухов Д\2048GAME-main\2048GAME-main\ип 2048\obj\Debug\ип 2048.pdb
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\bin\Debug\ип 2048.exe.config
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\bin\Debug\ип 2048.exe
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\bin\Debug\ип 2048.pdb
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.csprojAssemblyReference.cache
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.fAbout.resources
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.fMain.resources
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.fSettings.resources
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.Properties.Resources.resources
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.csproj.GenerateResource.cache
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.csproj.CoreCompileInputs.cache
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.exe
+Y:\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.pdb
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\bin\Debug\ип 2048.exe.config
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\bin\Debug\ип 2048.exe
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\bin\Debug\ип 2048.pdb
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.fAbout.resources
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.fMain.resources
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.fSettings.resources
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип_2048.Properties.Resources.resources
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.csproj.GenerateResource.cache
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.csproj.CoreCompileInputs.cache
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.exe
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.pdb
+e:\Student\Л22\Кожухов Дмитрий\ИП\2048 от 2021_09_15\obj\Debug\ип 2048.csproj.AssemblyReference.cache
